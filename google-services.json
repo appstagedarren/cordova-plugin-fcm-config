@@ -1,3 +1,55 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "890141966845",
+    "firebase_url": "https://tag-royale.firebaseio.com",
+    "project_id": "tag-royale",
+    "storage_bucket": "tag-royale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890141966845:android:193af776e6a8a3be",
+        "android_client_info": {
+          "package_name": "com.tagroyale.app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890141966845-om188lkejgudhtnal8qrs3dp568ldtnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tagroyale.app2",
+            "certificate_hash": "706b5e563ff4f76dd0c3fd8fb11690e08f66b548"
+          }
+        },
+        {
+          "client_id": "890141966845-j0in4c5mf7i2qjjik9fpqflb819dfmc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWrbrVyZ3av-_GPJaI0QBn0aQw0CAs-dQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890141966845-j0in4c5mf7i2qjjik9fpqflb819dfmc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
