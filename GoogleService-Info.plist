@@ -7,23 +7,23 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>890141966845-g4n3o5ivhh5mrmogbn3t70sjopn370q4.apps.googleusercontent.com</string>
+	<string>60659802084-101kn1rllas137kpi3pvpi4k2j0kj3p9.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.890141966845-g4n3o5ivhh5mrmogbn3t70sjopn370q4</string>
+	<string>com.googleusercontent.apps.60659802084-101kn1rllas137kpi3pvpi4k2j0kj3p9</string>
 	<key>ANDROID_CLIENT_ID</key>
-	<string>890141966845-om188lkejgudhtnal8qrs3dp568ldtnk.apps.googleusercontent.com</string>
+	<string>60659802084-uoe50nsq88bbdr9c8vh0n754195emhrn.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyAFMdv6YmSt_d2zuk5_YAuTMBeCssGO6ko</string>
+	<string>AIzaSyBJovKS0xLNJaCmgFQ6s1NTeNaqVXMb68Y</string>
 	<key>GCM_SENDER_ID</key>
-	<string>890141966845</string>
+	<string>60659802084</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.tagroyale.app2</string>
 	<key>PROJECT_ID</key>
-	<string>tag-royale</string>
+	<string>tag-royale-vas</string>
 	<key>STORAGE_BUCKET</key>
-	<string>tag-royale.appspot.com</string>
+	<string>tag-royale-vas.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -35,8 +35,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:890141966845:ios:193af776e6a8a3be</string>
+	<string>1:60659802084:ios:193af776e6a8a3be</string>
 	<key>DATABASE_URL</key>
-	<string>https://tag-royale.firebaseio.com</string>
+	<string>https://tag-royale-vas.firebaseio.com</string>
 </dict>
 </plist>
